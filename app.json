@@ -5,15 +5,15 @@
       "id": "com.megicaltech.gostore",
       "name": "GoStore",
       "package_name": "com.megicaltech.gostore",
-      "version": "1.0.0",
-      "version_code": 1,
+      "version": "2.0.0",
+      "version_code": 5,
       "summary": "Native high-performance self-hosted Android app store.",
       "description": "Discover, install, and update applications directly via GitHub Releases.",
       "icon_url": "https://raw.githubusercontent.com/megicaltech/GoStore/main/icons/store.png",
-      "download_url": "https://github.com/megicaltech/GoStore/releases/download/v1.0.0/GoStore.apk",
-      "size_bytes": 12582912,
+      "download_url": "https://github.com/megicaltech/GoStore/releases/download/v2.0.0/GoStore.apk",
+      "size_bytes": 18000000,
       "category": "Tools",
-      "changelog": "Initial stable release of GoStore with automated self-updating."
+      "changelog": "Initial release of GoStore with automated self-updating."
     }
   ]
 }
