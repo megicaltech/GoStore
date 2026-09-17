@@ -10,7 +10,7 @@
       "summary": "Native high-performance self-hosted Android app store.",
       "description": "Discover, install, and update applications directly via GitHub Releases.",
       "icon_url": "https://raw.githubusercontent.com/megicaltech/GoStore/main/icons/store.png",
-      "https://github.com/megicaltech/GoStore/releases/download/v2.0.1/GoStore.apk",
+      "download_url": "https://github.com/megicaltech/GoStore/releases/download/v2.0.1/GoStore.apk",
       "size_bytes": 18000000,
       "category": "Tools",
       "changelog": "Initial release of GoStore with automated self-updating."
