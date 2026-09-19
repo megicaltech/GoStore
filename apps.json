@@ -5,15 +5,36 @@
       "id": "com.megicaltech.gostore",
       "name": "GoStore",
       "package_name": "com.megicaltech.gostore",
-      "version": "2.0.2",
-      "version_code": 7,
-      "summary": "Native high-performance self-hosted Android app store.",
-      "description": "Discover, install, and update applications directly via GitHub Releases.",
+      "version": "3.0.0",
+      "version_code": 8,
+      "summary": "Flagship self-hosted app store with Google Play animations and Apple-curated browsing.",
+      "description": "Discover, install, and manage applications directly from GitHub Releases with low-level PackageInstaller sessions and scoped internal storage.",
       "icon_url": "https://raw.githubusercontent.com/megicaltech/GoStore/main/icons/store.png",
-      "download_url": "https://github.com/megicaltech/GoStore/releases/download/v2.0.2/GoStore.apk",
-      "size_bytes": 18500000,
+      "download_url": "https://github.com/megicaltech/GoStore/releases/download/v3.0.0/GoStore-universal.apk",
+      "size_bytes": 63478078,
+      "sha256": "4cc70ab3ad4cb2a1b8343d04ca17ce21d3942e0d486b38730b28bd0b29bda302",
       "category": "Tools",
-      "changelog": "Google Play Store UI replica, dynamic repo setup, and background PackageInstaller engine."
+      "featured": true,
+      "app_of_the_day": true,
+      "editorial_tagline": "The open-source flagship app store experience.",
+      "changelog": "Major v3.0.0 release: ABI splitting (arm64-v8a, armeabi-v7a, x86_64), Android 14 update ownership protection, hybrid Play Store morphing buttons, and Apple App Store curated discovery.",
+      "architectures": {
+        "arm64-v8a": {
+          "download_url": "https://github.com/megicaltech/GoStore/releases/download/v3.0.0/GoStore-arm64-v8a.apk",
+          "size_bytes": 63380142,
+          "sha256": "3adf4dfffea7db32dd90ef6143e9136c56f35106ce54ccc383de152d43ca58dc"
+        },
+        "armeabi-v7a": {
+          "download_url": "https://github.com/megicaltech/GoStore/releases/download/v3.0.0/GoStore-armeabi-v7a.apk",
+          "size_bytes": 63377450,
+          "sha256": "75c263e6b08b1c405e3351bd6b256f1f43b500d78a1662023d9e1c828e380d94"
+        },
+        "x86_64": {
+          "download_url": "https://github.com/megicaltech/GoStore/releases/download/v3.0.0/GoStore-x86_64.apk",
+          "size_bytes": 63379252,
+          "sha256": "60edc2fdb18a53fbb25e34f676cd158987bf134db4404c2a2b707a3db0c696f2"
+        }
+      }
     }
   ]
 }
