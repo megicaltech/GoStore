@@ -1,0 +1,23 @@
+{
+  "catalog_version": 1,
+  "apps": [
+    {
+      "id": "com.apporigin.inspector",
+      "name": "App-Analyser",
+      "package_name": "com.apporigin.inspector",
+      "version": "1.0.0",
+      "version_code": 1,
+      "summary": "Native Android app origin inspector and package diagnostics tool.",
+      "description": "Scans installed packages, retrieves exhaustive package diagnostics, detects developer origin country using embedded intelligence, and flags regional origin indicators.",
+      "icon_url": "https://raw.githubusercontent.com/megicaltech/GoStore/main/icons/store.png",
+      "download_url": "https://github.com/megicaltech/GoStore/releases/download/v3.0.0/App-Analyser.apk",
+      "size_bytes": 10203482,
+      "sha256": "508c805188c07d1950586425f23f0ea7eb03c901260dbb59a5c5df300b1b1239",
+      "category": "Tools",
+      "featured": true,
+      "app_of_the_day": true,
+      "editorial_tagline": "Deep package diagnostics and origin intelligence.",
+      "changelog": "Initial v1.0.0 release: two-phase package scanning, origin detection, and GoStore provenance protection."
+    }
+  ]
+}
