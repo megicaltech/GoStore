@@ -1,1 +1,28 @@
-
+{
+  "catalog_version": 1,
+  "apps": [
+    {
+      "id": "com.megicaltech.appanalyser",
+      "package_name": "com.megicaltech.appanalyser",
+      "name": "App-Analyser",
+      "version": "1.0.0",
+      "version_code": 1,
+      "size_bytes": 10220886,
+      "sha256": "dc0ad99b28ca452d4aedcd5742e883b09ad8b7b5298c01332eae378633640076",
+      "summary": "A modern Android privacy and security auditing tool that inspects installed packages, surfaces comprehensive diagnostic metadata, and identifies developer country of origin.",
+      "description": "App-Analyser utilizes an optimized two-phase scanning architecture to inspect permissions, cryptographic certificate fingerprints, and component hierarchies without Binder buffer limits. It highlights developer jurisdiction with policy-compliant badging, flags Chinese-origin applications in crimson red, and strictly enforces GoStore installation provenance.",
+      "icon_url": "https://raw.githubusercontent.com/megicaltech/GoStore/main/icons/store.png",
+      "download_url": "https://github.com/megicaltech/GoStore-Apps/releases/download/v1.0.0/App-Analyser.apk",
+      "category": "Security",
+      "categories": [
+        "Security",
+        "Utilities",
+        "Device Management"
+      ],
+      "featured": true,
+      "app_of_the_day": true,
+      "editorial_tagline": "Deep package diagnostics and origin intelligence.",
+      "changelog": "Initial v1.0.0 release: two-phase package scanning, origin detection, and GoStore provenance protection."
+    }
+  ]
+}
